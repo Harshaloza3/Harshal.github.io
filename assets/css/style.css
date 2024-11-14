@@ -354,7 +354,7 @@ section.section-show {
 }
 
 section .container {
-  background: #fff;
+  background: rgb(0,0,0);
   padding: 30px;
 }
 
